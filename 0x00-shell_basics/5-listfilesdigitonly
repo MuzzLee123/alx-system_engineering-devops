@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -na
+"ls -na" Display current directory contents in Long format, with user and group IDs displayed numerically and hidden files (starting with .)
