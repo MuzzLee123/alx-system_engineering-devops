@@ -13,3 +13,7 @@ th user and group IDs displayed numerically and hidden files (starting with .)
 
  named my_first_directory in the /tmp/ directory
 "mv /tmp/betty /tmp/my_first_repository/betty" Move the file betty from /tmp/ to /tmp/my_first_directory
+"rm /tmp/my_first_directory/betty" Delete the file betty
+"mv /tmp/betty /tmp/my_first_directory/betty" Move the file betty from /tm
+
+p/ to /tmp/my_first_directory
