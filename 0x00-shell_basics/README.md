@@ -17,3 +17,4 @@ th user and group IDs displayed numerically and hidden files (starting with .)
 "mv /tmp/betty /tmp/my_first_directory/betty" Move the file betty from /tm
 
 p/ to /tmp/my_first_directory
+"cd -" Write a script that changes the working directory to the previous one.
