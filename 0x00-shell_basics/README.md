@@ -6,3 +6,4 @@
 "ls -na" Display current directory contents in Long format, wi
 
 th user and group IDs displayed numerically and hidden files (starting with .)
+"mkdir tmp/my_first_directory" Create a script that creates a directory named my_first_directory in the /tmp/ directory
