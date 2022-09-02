@@ -9,3 +9,8 @@ of the file hello to the user betty
 "chmod ug+x,o+r" Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 "chmod a+x hello" Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 "chmod o+rwx hello" Write a script that sets the permission to the file hello as follows: Owner: no permission at all; Group: no permission at all; Other users: all the permissions
+"chmod 753 hello" Write a script that sets the mode of the file hello to this:
+
+
+
+-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
