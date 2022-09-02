@@ -18,3 +18,4 @@ th user and group IDs displayed numerically and hidden files (starting with .)
 
 p/ to /tmp/my_first_directory
 "cd -" Write a script that changes the working directory to the previous one.
+"cp -u *.html .." Copy HTML files
