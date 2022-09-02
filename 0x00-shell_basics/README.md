@@ -20,3 +20,4 @@ p/ to /tmp/my_first_directory
 "cd -" Write a script that changes the working directory to the previous one.
 "cp -u *.html .." Copy HTML files
 "mv [[:upper:]]* /tmp/u" Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u. You can assume that the directory /tmp/u will exist when we will run your script
+"rm *~*" Create a script that deletes all files in the current working directory that end with the character ~
