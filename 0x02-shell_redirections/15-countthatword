@@ -1,0 +1,2 @@
+#!/bin/bash
+rgep -c 'bin' /etc/passwd
